@@ -678,7 +678,7 @@
                  "name":"Back",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":30,
                  "x":0,
                  "y":0
@@ -3120,7 +3120,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.11.0",
+ "tiledversion":"1.11.1-99-gec89c545",
  "tileheight":32,
  "tilesets":[
         {
